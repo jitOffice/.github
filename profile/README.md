@@ -40,7 +40,7 @@
       <sub>AIPPT 编辑引擎</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://word.jitword.com/uploads/image_19cd63b4104.png" width="128" height="64" alt="JitMind" />
+      <img src="https://word.jitword.com/uploads/image_19cd63cf3a3.png" width="128" height="64" alt="JitMind" />
       <br/><br/>
       <b>JitMind</b>
       <br/>
