@@ -19,7 +19,7 @@
 
 ## 产品矩阵
 
-<table width="760px">
+<table style="width:760px">
   <tr>
     <td align="center" width="33%">
       <a href="https://jitword.com">
