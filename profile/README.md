@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 愿景
 
 > 我们相信，**AI 不应只是插件**，而应是生产力工具的核心引擎。
@@ -21,7 +19,7 @@
 
 ## 产品矩阵
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <a href="https://jitword.com">
