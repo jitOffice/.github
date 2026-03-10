@@ -19,16 +19,11 @@
 
 ## 产品矩阵
 
-<table style="width:760">
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="220">
       <a href="https://jitword.com">
-        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
-          <rect width="64" height="64" rx="16" fill="#3B5BDB"/>
-          <path d="M16 20h32v4H16zM16 30h24v4H16zM16 40h28v4H16z" fill="white" opacity="0.9"/>
-          <circle cx="46" cy="44" r="8" fill="#4DABF7"/>
-          <path d="M43 44l2 2 4-4" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNiIgZmlsbD0iJTIzM0I1QkRCIi8+PHBhdGggZD0iTTE2IDIwaDMydjRIMTZ6TTE2IDMwaDI0djRIMTZ6TTE2IDQwaDI4djRIMTZ6IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45Ii8+PGNpcmNsZSBjeD0iNDYiIGN5PSI0NCIgcj0iOCIgZmlsbD0iJTIzNERBQkY3Ii8+PHBhdGggZD0iTTQzIDQ0bDIgMiA0LTQiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" width="64" height="64" alt="JitWord" />
         <br/><br/>
         <b>JitWord</b>
       </a>
@@ -37,17 +32,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://ppt.jitword.com/jit-slide">
-        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
-          <rect width="64" height="64" rx="16" fill="#7950F2"/>
-          <rect x="12" y="14" width="40" height="28" rx="3" fill="white" opacity="0.15"/>
-          <rect x="14" y="16" width="36" height="24" rx="2" fill="white" opacity="0.9"/>
-          <rect x="18" y="20" width="20" height="3" rx="1.5" fill="#7950F2"/>
-          <rect x="18" y="26" width="14" height="2" rx="1" fill="#ADB5BD"/>
-          <rect x="18" y="30" width="16" height="2" rx="1" fill="#ADB5BD"/>
-          <path d="M38 26l4 4-4 4" fill="#7950F2" opacity="0.7"/>
-          <rect x="27" y="44" width="10" height="3" rx="1" fill="white" opacity="0.5"/>
-          <rect x="20" y="47" width="24" height="2" rx="1" fill="white" opacity="0.3"/>
-        </svg>
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNiIgZmlsbD0iJTIzNzk1MEYyIi8+PHJlY3QgeD0iMTIiIHk9IjE0IiB3aWR0aD0iNDAiIGhlaWdodD0iMjgiIHJ4PSIzIiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC4xNSIvPjxyZWN0IHg9IjE0IiB5PSIxNiIgd2lkdGg9IjM2IiBoZWlnaHQ9IjI0IiByeD0iMiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOSIvPjxyZWN0IHg9IjE4IiB5PSIyMCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjMiIHJ4PSIxLjUiIGZpbGw9IiUyMzc5NTBGMiIvPjxyZWN0IHg9IjE4IiB5PSIyNiIgd2lkdGg9IjE0IiBoZWlnaHQ9IjIiIHJ4PSIxIiBmaWxsPSIlMjNBREI1QkQiLz48cmVjdCB4PSIxOCIgeT0iMzAiIHdpZHRoPSIxNiIgaGVpZ2h0PSIyIiByeD0iMSIgZmlsbD0iJTIzQURCNUJEIi8+PHBhdGggZD0iTTM4IDI2bDQgNC00IDQiIGZpbGw9IiUyMzc5NTBGMiIgb3BhY2l0eT0iMC43Ii8+PHJlY3QgeD0iMjciIHk9IjQ0IiB3aWR0aD0iMTAiIGhlaWdodD0iMyIgcng9IjEiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjUiLz48cmVjdCB4PSIyMCIgeT0iNDciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyIiByeD0iMSIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuMyIvPjwvc3ZnPg==" width="64" height="64" alt="JitSlide" />
         <br/><br/>
         <b>JitSlide</b>
       </a>
@@ -55,25 +40,7 @@
       <sub>AIPPT 编辑引擎</sub>
     </td>
     <td align="center" width="33%">
-      <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
-        <rect width="64" height="64" rx="16" fill="#0CA678"/>
-        <!-- center node -->
-        <circle cx="32" cy="32" r="6" fill="white"/>
-        <!-- top node -->
-        <line x1="32" y1="26" x2="32" y2="17" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
-        <circle cx="32" cy="14" r="4" fill="white" opacity="0.9"/>
-        <!-- bottom-left node -->
-        <line x1="27" y1="36" x2="19" y2="44" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
-        <circle cx="16" cy="47" r="4" fill="white" opacity="0.9"/>
-        <!-- bottom-right node -->
-        <line x1="37" y1="36" x2="45" y2="44" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
-        <circle cx="48" cy="47" r="4" fill="white" opacity="0.9"/>
-        <!-- leaf from top -->
-        <line x1="32" y1="10" x2="22" y2="8" stroke="white" stroke-width="1.2" stroke-linecap="round" opacity="0.5"/>
-        <circle cx="20" cy="7" r="2.5" fill="white" opacity="0.5"/>
-        <line x1="32" y1="10" x2="42" y2="8" stroke="white" stroke-width="1.2" stroke-linecap="round" opacity="0.5"/>
-        <circle cx="44" cy="7" r="2.5" fill="white" opacity="0.5"/>
-      </svg>
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSJub25lIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNiIgZmlsbD0iJTIzMENBNjc4Ii8+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iNiIgZmlsbD0id2hpdGUiLz48bGluZSB4MT0iMzIiIHkxPSIyNiIgeDI9IjMyIiB5Mj0iMTciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9IjAuODUiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjE0IiByPSI0IiBmaWxsPSJ3aGl0ZSIgb3BhY2l0eT0iMC45Ii8+PGxpbmUgeDE9IjI3IiB5MT0iMzYiIHgyPSIxOSIgeTI9IjQ0IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBvcGFjaXR5PSIwLjg1Ii8+PGNpcmNsZSBjeD0iMTYiIGN5PSI0NyIgcj0iNCIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOSIvPjxsaW5lIHgxPSIzNyIgeTE9IjM2IiB4Mj0iNDUiIHkyPSI0NCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC44NSIvPjxjaXJjbGUgY3g9IjQ4IiBjeT0iNDciIHI9IjQiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjkiLz48bGluZSB4MT0iMzIiIHkxPSIxMCIgeDI9IjIyIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC41Ii8+PGNpcmNsZSBjeD0iMjAiIGN5PSI3IiByPSIyLjUiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjUiLz48bGluZSB4MT0iMzIiIHkxPSIxMCIgeDI9IjQyIiB5Mj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iMC41Ii8+PGNpcmNsZSBjeD0iNDQiIGN5PSI3IiByPSIyLjUiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjUiLz48L3N2Zz4=" width="64" height="64" alt="JitMind" />
       <br/><br/>
       <b>JitMind</b>
       <br/>
