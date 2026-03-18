@@ -48,7 +48,6 @@
       <br/>
       <sub>Office文件预览SDK</sub>
     </td>
-    
     <td align="center" width="33%">
       <img src="https://word.jitword.com/uploads/image_19cd63cf3a3.png" width="64" height="64" alt="JitMind" />
       <br/><br/>
