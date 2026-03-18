@@ -42,9 +42,9 @@
     <td align="center" width="33%">
       <img src="https://word.jitword.com/uploads/image_19cd63cf3a3.png" width="64" height="64" alt="JitMind" />
       <br/><br/>
-      <b>JitMind</b>
+      <b>JitKnow</b>
       <br/>
-      <sub>AI 知识库 · 开发中</sub>
+      <sub>AI 知识库 · 即将上线</sub>
     </td>
   </tr>
 </table>
