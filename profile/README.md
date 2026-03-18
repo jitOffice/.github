@@ -40,6 +40,16 @@
       <sub>AIPPT 编辑引擎</sub>
     </td>
     <td align="center" width="33%">
+      <a href="https://jitword.com/jit-viewer.html">
+        <img src="https://word.jitword.com/uploads/image_19cffd1f215.png" width="64" height="64" alt="Jit-viewer" />
+        <br/><br/>
+        <b>Jit-Viewer</b>
+      </a>
+      <br/>
+      <sub>Office文件预览SDK</sub>
+    </td>
+    
+    <td align="center" width="33%">
       <img src="https://word.jitword.com/uploads/image_19cd63cf3a3.png" width="64" height="64" alt="JitMind" />
       <br/><br/>
       <b>JitKnow</b>
