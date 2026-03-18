@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="33%">
       <a href="https://jitword.com">
         <img src="https://jitword.com/assets/logo.png" width="64" height="64" alt="JitWord" />
         <br/><br/>
@@ -46,7 +46,7 @@
         <b>Jit-Viewer</b>
       </a>
       <br/>
-      <sub>Office文件预览SDK</sub>
+      <sub>Office文件预览</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://word.jitword.com/uploads/image_19cd63cf3a3.png" width="64" height="64" alt="JitMind" />
