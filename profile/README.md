@@ -9,6 +9,8 @@
 
 <p><i>构建面向未来的 AI 办公基础设施 —— 更快、更开放、更智能</i></p>
 
+<p><img src="01.png" width="100" style="border-radius: 50%" alt="jitOffice" /></p> 
+
 </div>
 
 ## 愿景
